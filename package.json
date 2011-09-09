@@ -1,0 +1,19 @@
+{
+  "author": "Victor Hugo Borja <vborja@apache.org> (http://twitter.com/vic)",
+  "name": "jakesmine",
+  "description": "Add Coffee to your Titanium mobile development.",
+  "version": "0.0.0",
+  "homepage": "http://github.com/vic/jakesmine",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vic/jakesmine.git"
+  },
+  "engines": {
+    "node": "~v0.4.11"
+  },
+  "dependencies": {
+    "coffee-script": "stable",
+    "jake": "stable"
+  },
+  "devDependencies": {}
+}
